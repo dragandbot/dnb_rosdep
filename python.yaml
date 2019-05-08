@@ -1,8 +1,14 @@
 sympy-pip:
+  debian:
+    pip:
+      packages: [sympy]
   ubuntu:
     pip:
       packages: [sympy]
 scipy-pip:
+  debian:
+    pip:
+      packages: [scipy]
   ubuntu:
     pip:
       packages: [scipy]

@@ -1,0 +1,9 @@
+sympy-pip:
+  ubuntu:
+    pip:
+      packages: [sympy]
+scipy-pip:
+  ubuntu:
+    pip:
+      packages: [scipy]
+

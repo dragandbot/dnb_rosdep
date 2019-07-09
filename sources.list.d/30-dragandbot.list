@@ -1,1 +1,2 @@
 yaml https://raw.githubusercontent.com/dragandbot/dnb_rosdep/master/python.yaml
+yaml https://raw.githubusercontent.com/dragandbot/dnb_rosdep/master/base.yaml

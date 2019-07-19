@@ -12,4 +12,10 @@ scipy-pip:
   ubuntu:
     pip:
       packages: [scipy]
-
+scikit-optimize-pip:
+  debian:
+    pip:
+      packages: [scikit-optimize]
+  ubuntu:
+    pip:
+      packages: [scikit-optimize]

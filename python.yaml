@@ -12,6 +12,13 @@ scipy-pip:
   ubuntu:
     pip:
       packages: [scipy]
+imutils-pip:
+  debian:
+    pip:
+      packages: [imutils]
+  ubuntu:
+    pip:
+      packages: [imutils]
 scikit-optimize-pip:
   debian:
     pip:

@@ -26,3 +26,6 @@ scikit-optimize-pip:
   ubuntu:
     pip:
       packages: [scikit-optimize]
+python-yaml:
+  ubuntu:
+    focal: [python3-yaml]

@@ -33,3 +33,8 @@ python-reindent-pip:
   ubuntu:
     pip:
       packages: [reindent]
+python-pycryptodome-pip:
+  ubuntu:
+    pip:
+      packages: [pycryptodome]
+

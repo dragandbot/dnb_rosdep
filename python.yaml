@@ -29,3 +29,7 @@ scikit-optimize-pip:
 python-yaml:
   ubuntu:
     focal: [python3-yaml]
+python-reindent-pip:
+  ubuntu:
+    pip:
+      packages: [reindent]

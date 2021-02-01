@@ -37,4 +37,7 @@ python-pycryptodome-pip:
   ubuntu:
     pip:
       packages: [pycryptodome]
-
+python-pymodbus-pip:
+  ubuntu:
+    pip:
+      packages: [pycryptodome]

@@ -41,3 +41,7 @@ python-pymodbus-pip:
   ubuntu:
     pip:
       packages: [pycryptodome]
+python3-urdf-parser-py-pip:
+  ubuntu:
+    pip:
+      packages: [urdf-parser-py]

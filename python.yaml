@@ -45,3 +45,10 @@ python3-urdf-parser-py-pip:
   ubuntu:
     pip:
       packages: [urdf-parser-py]
+python-fcl-pip:
+  ubuntu:
+    pip:
+      packages: [python-fcl]
+  debian:
+    pip:
+      packages: [python-fcl]
